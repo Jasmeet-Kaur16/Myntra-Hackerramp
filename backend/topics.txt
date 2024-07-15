@@ -1,0 +1,31 @@
+best: 13
+dresses: 6
+chic: 5
+top: 4
+go: 4
+street: 4
+bags: 4
+ultimate: 4
+black: 3
+worth: 3
+ways: 3
+loafers: 3
+sandal: 3
+guide: 3
+women: 3
+staple: 3
+formulas: 3
+days: 2
+skirt: 2
+hereshop: 2
+
+guide best: 2
+best jeans: 2
+ultimate coolgirl: 2
+coolgirl staple: 2
+top denim: 1
+denim days: 1
+days goddess: 1
+goddess dresses: 1
+dresses bubble: 1
+bubble skirt: 1
